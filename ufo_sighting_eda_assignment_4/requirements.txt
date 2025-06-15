@@ -4,3 +4,4 @@ matplotlib
 calendar
 folium
 scikit-learn
+seaborn
