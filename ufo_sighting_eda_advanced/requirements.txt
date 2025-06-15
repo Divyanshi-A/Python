@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlib
+calendar
+folium
+scikit-learn
