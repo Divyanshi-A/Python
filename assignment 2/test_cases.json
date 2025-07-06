@@ -1,0 +1,39 @@
+[
+  {
+    "operation": "add",
+    "value": 3
+  },
+  {
+    "operation": "add",
+    "value": 20
+  },
+  {
+    "operation": "add",
+    "value": 11
+  },
+  {
+    "operation": "show"
+  },
+  {
+    "operation": "delete",
+    "position": 2
+  },
+  {
+    "operation": "show"
+  },
+  {
+    "operation": "delete",
+    "position": 5
+  },
+  {
+    "operation": "delete",
+    "position": 10
+  },
+  {
+    "operation": "delete",
+    "position": 1
+  },
+  {
+    "operation": "show"
+  }
+]
